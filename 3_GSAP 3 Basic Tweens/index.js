@@ -1,0 +1,1 @@
+gsap.to('.fred', {x:650, y:300, scale:3, duration: 3, rotation: 360})
