@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    background-color: aquamarine;
+}
+
+.fred{
+    margin-left:20px
+}
+
+.cha{
+    overflow: hidden;
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.title{
+    font-weight: bold;
+    font-size: 6rem;
+    color: rgb(247, 40, 87);
+}
+
+.time{
+    font-weight: bold;
+    font-size: 1.5rem;
+}

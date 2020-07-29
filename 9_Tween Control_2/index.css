@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    background-color: aquamarine;
+}
+
+.fred{
+    margin-left: 20px;
+}
+
+#nav{
+    margin-top: 40px;
+}
+
+.cha{
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
