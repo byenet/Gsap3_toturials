@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+#demo{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+
+}
+
+.logo-cha{
+    float: left;
+    margin-right: 50px;
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    z-index: 10;
+    float: left;
+    margin: 120px 50px
+}
+
+.circle:nth-child(2) {
+    background-color: aqua;
+}
+.circle:nth-child(3) {
+    background-color: yellowgreen;
+}
+.circle:nth-child(4) {
+    background-color: orchid;
+}
+.circle:nth-child(5) {
+    background-color: burlywood;
+}
+.circle:nth-child(6) {
+    background-color: aqua;
+}
+
+.clearfix button{
+    margin: 7px
+}
